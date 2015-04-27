@@ -20,5 +20,5 @@ GitHubActivity.feed({
   limit: 20 // optional
 });
 
-$("#rss-feeds").rss("http://samuelwhitley89.wordpress.com/feed")
+
 
